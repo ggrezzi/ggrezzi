@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <h1>Gabriel H. Grezzi - Github</h1><img src="animation.gif" alt="animacion"><br>
+    <h1>Gabriel H. Grezzi - Github</h1><img src="animation.gif" alt="animacion" width="200px" height="200px"><br>
     <p>Bienvenidos a mi GitHub, aqui podran encontrar algunos de mis trabajos publicos, 
         dentro de los cuales estan mis entregas en CoderHouse y algunos inventos mios.
     </p>

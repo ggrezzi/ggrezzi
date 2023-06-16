@@ -12,10 +12,12 @@
         dentro de los cuales estan mis entregas en CoderHouse y algunos inventos mios.
     </p>
 <p>Actualmente me encuentro estudiando Full Stack developer en Coder.</p> 
-<p>Proyecto actual: <a href="https://ggrezzi.github.io/EntregaJavaScript/" target="_blank">Host</a> - <a href="https://github.com/ggrezzi/EntregaJavaScript" target="_blank">Repository</a></p>
+<p>Proyecto actual: </p>
+<p>ReactJs -  <a href="https://github.com/ggrezzi/ReactJs/tree/main/Entregables/primerentrega" target="blank">Repository</a></p>
 <p>Proyectos anteriores: </p>
-<p>Desarrollo Web - <a href="http://pipiwool.epizy.com/" target="_blank">Host</a> - <a href="https://github.com/ggrezzi/PF-Grezzi" target="_blank">Repository</a></p>
-<p>C# -  <a href="https://github.com/ggrezzi/PrimerTrabajoConAPI" target="_blank">Repository</a></p>
+<p>JavaScript -  <a href="https://ggrezzi.github.io/EntregaJavaScript/" target="blank">Host</a> - <a href="https://github.com/ggrezzi/EntregaJavaScript" target="blank">Repository</a></p>
+<p>Desarrollo Web - <a href="http://pipiwool.epizy.com/" target="blank">Host</a> - <a href="https://github.com/ggrezzi/PF-Grezzi" target="blank">Repository</a></p>
+<p>C# -  <a href="https://github.com/ggrezzi/PrimerTrabajoConAPI" target="blank">Repository</a></p>
 
 <p>Pueden encontrar mas informacion mia en <a href="https://www.linkedin.com/in/gabriel-grezzi-6191674a/">LinkedIn</a></p>
 
